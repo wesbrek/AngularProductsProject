@@ -35,6 +35,7 @@ export class InfoPageService {
       .subscribe( (resp: any[]) => {
       
         this.artistas = resp;
+        
         console.log(resp);
       });
   }
