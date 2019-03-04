@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## If something is modified
 
 Command `ng build --prod` and put the "portafolio" folder outside of dist and change the name to "docs"
+
+## URL
+
+https://wesbrek.github.io/AngularProductsProject/
